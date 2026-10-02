@@ -7,7 +7,7 @@ Explainable AI dashboard for Google OAuth scope combinations.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/taylor-land/scope-guard-dashboard.git
+git clone [https://github.com/ahmadi-ux/ScopeGuard.git](https://github.com/ahmadi-ux/ScopeGuard.git)
 cd scope-guard-dashboard
 pip install -r requirements.txt
 ```
